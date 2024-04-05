@@ -1,0 +1,19 @@
+1) user ko'p habar yuborishi mumkin
+harbar bitta user tomonidan yuboriladi
+one - users, many - messages
+
+2) author ko'p konsert berishi mumkin,
+konsertlar bitta author tomonida qo'yiladi
+one - author, many - consert
+
+3) customer ko'p xaridlarni amalga oshirishi mumkin,
+xarid bitta customer tomonida buyurtma qilinadi
+one - customer, many - xarid
+
+4) artist ko'p qo'shiqlar yozishi mumkin,
+qo'shiq bitta  artist tomonida yoziladi
+one - artist, many - song
+
+5) student ko'p fanlardan baho olishi mumkin,
+baho bitta student ga qo'yiladi 
+one - student, many - baho
