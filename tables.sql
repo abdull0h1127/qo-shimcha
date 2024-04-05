@@ -163,3 +163,4 @@
 1) -- https://github.com/abdull0h1127/Uy-ishi-24.01.2024--githubga-pushlash-
 2) -- https://github.com/abdull0h1127/Uy-ishi-26.01.2024-githubga-pushlash-
 3) -- https://github.com/abdull0h1127/Uy-ishi-29.01.2024
+4) -- https://github.com/abdull0h1127/qo-shimcha
